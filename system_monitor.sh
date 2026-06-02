@@ -1,3 +1,4 @@
+# System Monitoring Script
 #!/bin/bash
 
 DISK_THRESHOLD=80
